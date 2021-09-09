@@ -2,7 +2,7 @@
   "name": "mernBase",
   "version": "1.0.0",
   "description": "The official MERN base of the Coduza-Bases project",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
