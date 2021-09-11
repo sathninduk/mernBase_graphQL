@@ -37,7 +37,7 @@ const resolvers = {
     },
     Mutation: {
         createTodo: async (_, {text}) => {
-            const todo = new Todo({ text, complete: false });
+            const todo = new Todo({ text, complete: true });
             await todo.save();
             return todo;
         },
