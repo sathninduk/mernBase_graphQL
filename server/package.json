@@ -13,6 +13,6 @@
     "graphql-playground-html": "^1.6.29",
     "graphql-yoga": "^1.18.3",
     "mongoose": "^6.0.5",
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.20"
   }
 }
